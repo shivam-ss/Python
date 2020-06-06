@@ -1,0 +1,1 @@
+UNIX systems have a command: cat. It opens a file for appending. Created something similar for all platforms, pass the arguments via command line and run the cat.py file. Run from cmd in format: python cat.py <filename1> <filename2>
